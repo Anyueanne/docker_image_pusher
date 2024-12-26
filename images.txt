@@ -1,1 +1,2 @@
 prometheuscommunity/postgres-exporter:master
+k2fsa/icefall:torch2.4.1-cuda12.1
